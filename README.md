@@ -47,9 +47,9 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 
 
 ### 👉 Database
+![Mysql](https://img.shields.io/badge/mysql-%234ea94b.svg?style=plastic&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![Mysql](https://img.shields.io/badge/mysql-%234ea94b.svg?style=plastic&logo=mysql&logoColor=white)
 
 ### 👉 Cloud Hosting
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) 
