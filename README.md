@@ -1,4 +1,5 @@
 ## <h1 align="center">Hi 👋, I'm Malay Patoliya</h1>
+<h3 align="center">I'm a passionate MERN Stack Developer</h3>
 
 [![](https://visitcount.itsvg.in/api?id=yashghori&icon=0&color=1)](https://visitcount.itsvg.in)
 
@@ -10,12 +11,6 @@
 - 👨‍💻 All of my projects are available at **[My Portfolio Website](https://www.malaypatoliya.me/)**
 
 - 📫 How to reach me **malaypatoliya1619@gmail.com**
-
-<br>
-
-## 🌐Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/malay_patoliya/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malay-patoliya/)
 
 <br>
 
@@ -60,7 +55,7 @@
 
 ## 🌐Socials
 
-<p align="center">
+<p align="left">
   <a href="https://www.malaypatoliya.me/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:malaypatoliya1619@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/malaypatoliya"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
