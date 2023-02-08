@@ -1,7 +1,7 @@
 ## <h1 align="center">Hi 👋, I'm Malay Patoliya</h1>
 <h3 align="center">I'm a passionate MERN Stack Developer</h3>
 
-[![](https://visitcount.itsvg.in/api?id=yashghori&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=malaypatoliya&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **NodeJS**
