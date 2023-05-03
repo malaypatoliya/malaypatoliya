@@ -41,6 +41,7 @@
 ### 👉 Backend Development
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) 
+![Sequelize](https://img.shields.io/badge/sequelize-%2363afff.svg?style=plastic&logo=sequelize&logoColor=white)
 
 ### 👉 Database
 ![Mysql](https://img.shields.io/badge/mysql-%234ea94b.svg?style=plastic&logo=mysql&logoColor=white)
