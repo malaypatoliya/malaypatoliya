@@ -12,8 +12,6 @@
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **NodeJS**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
 - 👨‍💻 All of my projects are available at **[My Portfolio Website](https://www.malaypatoliya.me/)**
 
 - 📫 How to reach me **malaypatoliya1619@gmail.com**
