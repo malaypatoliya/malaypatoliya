@@ -22,6 +22,9 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+<div style="padding: 10px; background-color: #0081CB; border-radius: 5px;">
+  <img src="https://img.shields.io/badge/Material--UI-%230081CB.svg?style=plastic&logo=material-ui&logoColor=white" alt="Material-UI" />
+</div>
 
 ### 👉 Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
